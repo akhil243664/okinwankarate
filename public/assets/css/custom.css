@@ -1,0 +1,20 @@
+.instructor {
+    max-width: 285px;
+    max-height: 348px;
+}
+
+/* Tablet size */
+@media (max-width: 768px) {
+    .instructor {
+        max-width: 220px;
+        max-height: 268px;
+    }
+}
+
+/* Mobile size */
+@media (max-width: 480px) {
+    .instructor {
+        max-width: 160px;
+        max-height: 200px;
+    }
+}
