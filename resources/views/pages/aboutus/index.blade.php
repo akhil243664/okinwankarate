@@ -156,25 +156,7 @@
                     <div class="owl-carousel" data-loop="false" data-margin="30" data-nav="true" data-dots="true"
                         data-center="false" data-items="1" data-autoplay="false" data-responsive-xs="1"
                         data-responsive-sm="1" data-responsive-md="1" data-responsive-lg="1">
-
-                        <div class="vertical-item testimonial-item box-shadow content-padding text-center">
-                            <blockquote class="quote-item">
-                                <div class="quote-image">
-                                    <img src="images/team/testimonials_01.jpg" alt="">
-                                </div>
-                                <h5>Clifford Carter</h5>
-                                <p class="small-text color-main">
-                                    VISITOR / BUSINESSMAN
-                                </p>
-                                <p>
-                                    Pork belly shankle brisket pig swine sausage landjaeger tri-tip drumstick kielbasa
-                                    burgdoggen pork chop prosciutto rump ground round. Andouille ribeye chicken swine.
-                                    Biltong rump venison.
-                                </p>
-                                <i class="fa fa-quote-right" aria-hidden="true"></i>
-                            </blockquote>
-                        </div>
-
+                        
                         <div class="vertical-item testimonial-item box-shadow content-padding text-center">
                             <blockquote class="quote-item">
                                 <div class="quote-image">

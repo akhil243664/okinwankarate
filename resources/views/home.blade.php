@@ -102,7 +102,7 @@
                             <i class="fa fa-phone"></i>
                         </div>
                         <span>CALL US 24/7</span>
-                        <h5>+7-85-569-123</h5>
+                        <h5>+91 97318 93101</h5>
                     </div>
                 </div>
                 <div class="col-12 col-md-4 text-center">
@@ -120,7 +120,7 @@
                             <i class="fa fa-clock-o"></i>
                         </div>
                         <span>WORKING HOURS</span>
-                        <h5>DAILY: 9AM - 8PM</h5>
+                        <h5>DAILY: 9AM - 7PM</h5>
                     </div>
                 </div>
             </div>
@@ -141,7 +141,7 @@
                         Unlike other martial arts schools, we do not require you to sign long term contracts.
                         You just pay one low monthly fee for your martial arts and self defense classes at the
                         beginning of each month. Many martial arts...
-                        <a class="about-link" href="about.html">
+                        <a class="about-link" href="{{url('/aboutus')}}">
                             read more <i class="fa fa-level-down" aria-hidden="true"></i>
                         </a>
                     </p>
@@ -185,19 +185,81 @@
                             </a>
                             <div class="item-content">
                                 <h5>
-                                    <a href="service-single.html">Kids Karate Groups</a>
+                                    <a href="#">Children's Classes</a>
                                 </h5>
-                                <span>10:00-11:00 AM / LIZZIE MEYER</span>
-                                <p>
-                                    Ribeye kevin shank bacon bris fatback. Sirloin frankfurter brisket, tri-tip
-                                    pork chicken.
-                                </p>
+                                <p>Ocused on building coordination, discipline, and respect. </p>
                                 <div class="services-link">
                                     <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="vertical-item text-center">
+                            <div class="item-media">
+                                <img width="370" height="230" src="{{ url('public/assets/images/gallery/14.jpg') }}"
+                                    alt="">
+                                <div class="media-links">
+                                    <a class="abs-link" title="" href="service-single.html"></a>
+                                </div>
+                            </div>
+                            <a href="service-single.html" class="services-icon">
+                                <i class="fa fa-calendar"></i>
+                            </a>
+                            <div class="item-content">
+                                <h5>
+                                    <a href="#">Adult Classes</a>
+                                </h5>
+                                <p>Emphasizing self-defense, fitness, and stress relief.</p>
+    
+                                <div class="services-link">
+                                    <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vertical-item text-center">
+                            <div class="item-media">
+                                <img src="{{ url('public/assets/images/gallery/01.jpg') }}" alt="">
+                                <div class="media-links">
+                                    <a class="abs-link" title="" href="service-single.html"></a>
+                                </div>
+                            </div>
+                            <a href="service-single.html" class="services-icon">
+                                <i class="fa fa-calendar"></i>
+                            </a>
+                            <div class="item-content">
+                                <h5>
+                                    <a href="#">Advanced Training</a>
+                                </h5>
+                                <p>For those looking to deepen their understanding and mastery of Okinawan karate.</p>
+    
+                                <div class="services-link">
+                                    <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="vertical-item text-center">
+                            <div class="item-media">
+                                <img width="370" height="230" src="{{ url('public/assets/images/gallery/04.jpg') }}"
+                                    alt="">
+                                <div class="media-links">
+                                    <a class="abs-link" title="" href="service-single.html"></a>
+                                </div>
+                            </div>
+                            <a href="service-single.html" class="services-icon">
+                                <i class="fa fa-calendar"></i>
+                            </a>
+                            <div class="item-content">
+                                <h5>
+                                    <a href="#">Corporate Training</a>
+                                </h5>
+                                <p>Providing personal training in companies to promote wellness and team building.</p>
+    
+                                <div class="services-link">
+                                    <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        {{-- <div class="vertical-item text-center">
                             <div class="item-media">
                                 <img width="370" height="230" src="{{ url('public/assets/images/gallery/14.jpg') }}"
                                     alt="">
@@ -245,81 +307,7 @@
                                 </div>
                             </div>
 
-                        </div>
-                        <div class="vertical-item text-center">
-                            <div class="item-media">
-                                <img width="370" height="230" src="{{ url('public/assets/images/gallery/17.jpg') }}"
-                                    alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="service-single.html"></a>
-                                </div>
-                            </div>
-                            <a href="service-single.html" class="services-icon">
-                                <i class="fa fa-calendar"></i>
-                            </a>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="service-single.html">Kids Karate Groups</a>
-                                </h5>
-                                <span>10:00-11:00 AM / LIZZIE MEYER</span>
-                                <p>
-                                    Ribeye kevin shank bacon bris fatback. Sirloin frankfurter brisket, tri-tip
-                                    pork chicken.
-                                </p>
-                                <div class="services-link">
-                                    <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vertical-item text-center">
-                            <div class="item-media">
-                                <img width="370" height="230" src="{{ url('public/assets/images/gallery/14.jpg') }}"
-                                    alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="service-single.html"></a>
-                                </div>
-                            </div>
-                            <a href="service-single.html" class="services-icon">
-                                <i class="fa fa-calendar"></i>
-                            </a>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="service-single.html">Teen & Adult Karate</a>
-                                </h5>
-                                <span>5:00-6:00 AM / ALEJANDRO DIAZ</span>
-                                <p>
-                                    Tenderloin jerky ground round landjaeger pork ham pancetta pastrami turkey.
-                                </p>
-                                <div class="services-link">
-                                    <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vertical-item text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/gallery/01.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="service-single.html"></a>
-                                </div>
-                            </div>
-                            <a href="service-single.html" class="services-icon">
-                                <i class="fa fa-calendar"></i>
-                            </a>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="service-single.html">Traditional Martial Arts</a>
-                                </h5>
-                                <span>6:00-7:00 PM / COLE BUTLER</span>
-                                <p>
-                                    Filet mignon bresaola doner, buffalo pork belly meatball meatl swine
-                                    sirloin.
-                                </p>
-                                <div class="services-link">
-                                    <a href="service-single.html"><i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-
-                        </div>
+                        </div> --}}
                     </div>
 
                 </div>
@@ -340,67 +328,155 @@
                         <div class="vertical-item testimonial-item box-shadow content-padding text-center">
                             <blockquote class="quote-item">
                                 <div class="quote-image">
-                                    <img src="{{ url('public/assets/images/team/testimonials_01.jpg') }}" alt="">
+                                    <img src="images/team/testimonials_02.jpg" alt="">
                                 </div>
-                                <h5>Clifford Carter</h5>
+                                <h5>Sarah Johnson</h5>
                                 <p class="small-text color-main">
-                                    VISITORS / BUSINESSMAN
+                                    PARENT
                                 </p>
                                 <p>
-                                    Pork belly shankle brisket pig swine sausage landjaeger tri-tip drumstick
-                                    kielbasa burgdoggen pork chop prosciutto rump ground round. Andouille ribeye
-                                    chicken swine. Biltong rump venison.
+                                    My son has grown so much in confidence and discipline since joining Okinawan Karate
+                                    School. The instructors are fantastic and truly care about the students' development.
                                 </p>
                                 <i class="fa fa-quote-right" aria-hidden="true"></i>
                             </blockquote>
                         </div>
+
                         <div class="vertical-item testimonial-item box-shadow content-padding text-center">
                             <blockquote class="quote-item">
                                 <div class="quote-image">
-                                    <img src="{{ url('public/assets/images/team/testimonials_04.jpg') }}" alt="">
+                                    <img src="images/team/testimonials_03.jpg" alt="">
                                 </div>
-                                <h5>Clifford Carter</h5>
+                                <h5>Michael Lee</h5>
                                 <p class="small-text color-main">
-                                    VISITORS / BUSINESSMAN
+                                    STUDENT
                                 </p>
                                 <p>
-                                    Pork belly shankle brisket pig swine sausage landjaeger tri-tip drumstick
-                                    kielbasa burgdoggen pork chop prosciutto rump ground round. Andouille ribeye
-                                    chicken swine. Biltong rump venison.
+                                    I love the training sessions at Okinawan Karate School! They've taught me self-defense,
+                                    improved my fitness, and given me a sense of community. Highly recommend this school to
+                                    anyone interested in martial arts.
                                 </p>
                                 <i class="fa fa-quote-right" aria-hidden="true"></i>
                             </blockquote>
                         </div>
+
                         <div class="vertical-item testimonial-item box-shadow content-padding text-center">
                             <blockquote class="quote-item">
                                 <div class="quote-image">
-                                    <img src="{{ url('public/assets/images/team/testimonials_02.jpg') }}" alt="">
+                                    <img src="images/team/testimonials_04.jpg" alt="">
                                 </div>
-                                <h5>Clifford Carter</h5>
+                                <h5>Ananya Nair</h5>
                                 <p class="small-text color-main">
-                                    VISITORS / BUSINESSMAN
+                                    PARENT
                                 </p>
                                 <p>
-                                    Pork belly shankle brisket pig swine sausage landjaeger tri-tip drumstick
-                                    kielbasa burgdoggen pork chop prosciutto rump ground round. Andouille ribeye
-                                    chicken swine. Biltong rump venison.
+                                    Since my daughter joined Okinawan Karate School, she has developed incredible discipline
+                                    and focus. The school's dedication to authentic techniques and philosophy is truly
+                                    commendable.
                                 </p>
                                 <i class="fa fa-quote-right" aria-hidden="true"></i>
                             </blockquote>
                         </div>
+
                         <div class="vertical-item testimonial-item box-shadow content-padding text-center">
                             <blockquote class="quote-item">
                                 <div class="quote-image">
-                                    <img src="{{ url('public/assets/images/team/testimonials_03.jpg') }}" alt="">
+                                    <img src="images/team/testimonials_05.jpg" alt="">
                                 </div>
-                                <h5>Clifford Carter</h5>
+                                <h5>Rajesh Kumar</h5>
                                 <p class="small-text color-main">
-                                    VISITORS / BUSINESSMAN
+                                    PARENT
                                 </p>
                                 <p>
-                                    Pork belly shankle brisket pig swine sausage landjaeger tri-tip drumstick
-                                    kielbasa burgdoggen pork chop prosciutto rump ground round. Andouille ribeye
-                                    chicken swine. Biltong rump venison.
+                                    Okinawan Karate School has been a wonderful experience for my son. The instructors are
+                                    knowledgeable and passionate about teaching authentic Okinawan martial arts.
+                                </p>
+                                <i class="fa fa-quote-right" aria-hidden="true"></i>
+                            </blockquote>
+                        </div>
+
+                        <div class="vertical-item testimonial-item box-shadow content-padding text-center">
+                            <blockquote class="quote-item">
+                                <div class="quote-image">
+                                    <img src="images/team/testimonials_06.jpg" alt="">
+                                </div>
+                                <h5>Neha Shetty</h5>
+                                <p class="small-text color-main">
+                                    STUDENT
+                                </p>
+                                <p>
+                                    Training at Okinawan Karate School has been transformative for me. I've gained
+                                    confidence, strength, and a deeper understanding of martial arts.
+                                </p>
+                                <i class="fa fa-quote-right" aria-hidden="true"></i>
+                            </blockquote>
+                        </div>
+
+                        <div class="vertical-item testimonial-item box-shadow content-padding text-center">
+                            <blockquote class="quote-item">
+                                <div class="quote-image">
+                                    <img src="images/team/testimonials_07.jpg" alt="">
+                                </div>
+                                <h5>Ravi Menon</h5>
+                                <p class="small-text color-main">
+                                    PARENT
+                                </p>
+                                <p>
+                                    The Okinawan Karate School has provided my child with an exceptional environment to
+                                    learn and grow. The instructors' commitment to the students' progress is evident in
+                                    every class.
+                                </p>
+                                <i class="fa fa-quote-right" aria-hidden="true"></i>
+                            </blockquote>
+                        </div>
+
+                        <div class="vertical-item testimonial-item box-shadow content-padding text-center">
+                            <blockquote class="quote-item">
+                                <div class="quote-image">
+                                    <img src="images/team/testimonials_08.jpg" alt="">
+                                </div>
+                                <h5>Aishwarya Reddy</h5>
+                                <p class="small-text color-main">
+                                    STUDENT
+                                </p>
+                                <p>
+                                    Okinawan Karate School is amazing! The classes are engaging, and the instructors are
+                                    very supportive. I've learned so much since I started training here.
+                                </p>
+                                <i class="fa fa-quote-right" aria-hidden="true"></i>
+                            </blockquote>
+                        </div>
+
+                        <div class="vertical-item testimonial-item box-shadow content-padding text-center">
+                            <blockquote class="quote-item">
+                                <div class="quote-image">
+                                    <img src="images/team/testimonials_09.jpg" alt="">
+                                </div>
+                                <h5>Karthik Rao</h5>
+                                <p class="small-text color-main">
+                                    STUDENT
+                                </p>
+                                <p>
+                                    The Okinawan Karate School has a rich tradition and a disciplined approach to training.
+                                    I've enjoyed every moment and have grown both physically and mentally.
+                                </p>
+                                <i class="fa fa-quote-right" aria-hidden="true"></i>
+                            </blockquote>
+                        </div>
+
+                        <div class="vertical-item testimonial-item box-shadow content-padding text-center">
+                            <blockquote class="quote-item">
+                                <div class="quote-image">
+                                    <img src="images/team/testimonials_10.jpg" alt="">
+                                </div>
+                                <h5>Sindhu Pillai</h5>
+                                <p class="small-text color-main">
+                                    PARENT
+                                </p>
+                                <p>
+                                    My daughter's experience at Okinawan Karate School has been fantastic. The training
+                                    programs are comprehensive, and the school's focus on authentic techniques is
+                                    impressive.
                                 </p>
                                 <i class="fa fa-quote-right" aria-hidden="true"></i>
                             </blockquote>
@@ -411,6 +487,9 @@
             </div>
         </div>
     </section>
+    @php
+        $instructors = \App\Helpers\InstructorsHelper::getInstructors();
+    @endphp
     <section class="ds ms s-py-60 s-py-md-90 s-overlay team-section">
         <div class="container">
             <div class="row">
@@ -422,156 +501,31 @@
                     <div class="owl-carousel" data-loop="true" data-margin="30" data-nav="true" data-dots="true"
                         data-center="false" data-items="1" data-autoplay="true" data-responsive-xs="1"
                         data-responsive-sm="2" data-responsive-md="3" data-responsive-lg="3">
-                        <div class="vertical-item box-shadow content-padding text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/team/01.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="team-single.html"></a>
+                        @foreach ($instructors as $k => $instructor)
+                            <div class="vertical-item box-shadow content-padding text-center">
+                                <div class="item-media">
+                                    <img class="instructor"
+                                        src="{{ url('public/assets/images/team/' . $instructor['image']) }}"
+                                        alt="Our Instructor">
+                                    <div class="media-links">
+                                        <a class="abs-link" title="" href="#"></a>
+                                    </div>
+                                </div>
+                                <div class="item-content">
+                                    <h5>
+                                        <a href="#">{{ $instructor['name'] }}</a>
+                                    </h5>
+                                    <p class="small-text color-main">
+                                        {{ $instructor['description'] }}
+                                    </p>
+                                    <p class="social-icons">
+                                        <a href="#" class="fa fa-facebook" title="facebook"></a>
+                                        <a href="#" class="fa fa-twitter" title="twitter"></a>
+                                        <a href="#" class="fa fa-google-plus" title="google"></a>
+                                    </p>
                                 </div>
                             </div>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="team-single.html">Randall Schwartz</a>
-                                </h5>
-
-                                <p class="small-text color-main">
-                                    KIDS INSTRUCTOR
-                                </p>
-                                <p class="social-icons">
-
-                                    <a href="#" class="fa fa-facebook" title="facebook"></a>
-                                    <a href="#" class="fa fa-twitter" title="twitter"></a>
-                                    <a href="#" class="fa fa-google-plus" title="google"></a>
-
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="vertical-item box-shadow content-padding text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/team/02.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="team-single.html"></a>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="team-single.html">Randall Schwartz</a>
-                                </h5>
-
-                                <p class="small-text color-main">
-                                    KIDS INSTRUCTOR
-                                </p>
-                                <p class="social-icons">
-
-                                    <a href="#" class="fa fa-facebook" title="facebook"></a>
-                                    <a href="#" class="fa fa-twitter" title="twitter"></a>
-                                    <a href="#" class="fa fa-google-plus" title="google"></a>
-
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="vertical-item box-shadow content-padding text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/team/03.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="team-single.html"></a>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="team-single.html">Randall Schwartz</a>
-                                </h5>
-
-                                <p class="small-text color-main">
-                                    KIDS INSTRUCTOR
-                                </p>
-                                <p class="social-icons">
-
-                                    <a href="#" class="fa fa-facebook" title="facebook"></a>
-                                    <a href="#" class="fa fa-twitter" title="twitter"></a>
-                                    <a href="#" class="fa fa-google-plus" title="google"></a>
-
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="vertical-item box-shadow content-padding text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/team/01.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="team-single.html"></a>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="team-single.html">Randall Schwartz</a>
-                                </h5>
-
-                                <p class="small-text color-main">
-                                    KIDS INSTRUCTOR
-                                </p>
-                                <p class="social-icons">
-
-                                    <a href="#" class="fa fa-facebook" title="facebook"></a>
-                                    <a href="#" class="fa fa-twitter" title="twitter"></a>
-                                    <a href="#" class="fa fa-google-plus" title="google"></a>
-
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="vertical-item box-shadow content-padding text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/team/02.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="team-single.html"></a>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="team-single.html">Randall Schwartz</a>
-                                </h5>
-
-                                <p class="small-text color-main">
-                                    KIDS INSTRUCTOR
-                                </p>
-                                <p class="social-icons">
-
-                                    <a href="#" class="fa fa-facebook" title="facebook"></a>
-                                    <a href="#" class="fa fa-twitter" title="twitter"></a>
-                                    <a href="#" class="fa fa-google-plus" title="google"></a>
-
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="vertical-item box-shadow content-padding text-center">
-                            <div class="item-media">
-                                <img src="{{ url('public/assets/images/team/03.jpg') }}" alt="">
-                                <div class="media-links">
-                                    <a class="abs-link" title="" href="team-single.html"></a>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h5>
-                                    <a href="team-single.html">Randall Schwartz</a>
-                                </h5>
-
-                                <p class="small-text color-main">
-                                    KIDS INSTRUCTOR
-                                </p>
-                                <p class="social-icons">
-
-                                    <a href="#" class="fa fa-facebook" title="facebook"></a>
-                                    <a href="#" class="fa fa-twitter" title="twitter"></a>
-                                    <a href="#" class="fa fa-google-plus" title="google"></a>
-
-                                </p>
-
-                            </div>
-                        </div>
+                        @endforeach
                     </div>
                 </div>
                 <div class="divider-70 d-none d-xl-block"></div>
@@ -751,7 +705,7 @@
             </div>
         </div>
     </section>
-    <section class="ds s-pt-60 s-pb-0 s-py-md-90 c-mb-30 news-section">
+    {{-- <section class="ds s-pt-60 s-pb-0 s-py-md-90 c-mb-30 news-section">
         <div class="container">
             <div class="row">
                 <div class="divider-70 d-none d-xl-block"></div>
@@ -918,7 +872,7 @@
                 <div class="divider-10 d-none d-xl-block"></div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <section class="ds ms page_map main-map" data-draggable="false" data-scrollwheel="false">
 
         <div class="marker">
@@ -979,7 +933,7 @@
                             <i class="color-main fa fa-phone"></i>
                         </div>
                         <span>CALL US 24/7</span>
-                        <h5>+7-85-569-123</h5>
+                        <h5>+91 97318 93101</h5>
                     </div>
                 </div>
                 <div class="col-12 col-md-4 text-center">
@@ -997,7 +951,7 @@
                             <i class="color-main fa fa-clock-o"></i>
                         </div>
                         <span>WORKING HOURS</span>
-                        <h5>DAILY: 9AM - 8PM</h5>
+                        <h5>DAILY: 9AM - 7PM</h5>
                     </div>
                 </div>
             </div>
