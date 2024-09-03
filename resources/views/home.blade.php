@@ -96,7 +96,54 @@
     <section class="s-pb-40 s-pt-0 s-py-lg-50 c-my-40 c-my-lg-15 ds contact-info">
         <div class="container">
             <div class="row">
+                <!-- Address 1 -->
                 <div class="col-12 col-md-4 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <div class="icon-styled">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <span>OKINAWAN KARATE SCHOOL (Honbu Dojo)</span>
+                        <span>257/9, opp Dlf New Town, 2nd Floor</span>
+                        <h5>Akshayanagar BEGUR to HULIMAVU road</h5>
+                        <h5>Beside Thalassery restaurant, Bengaluru, Karnataka, 560068</h5>
+                    </div>
+                </div>
+                <!-- Address 2 -->
+                <div class="col-12 col-md-4 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <div class="icon-styled">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <span>OKINAWAN KARATE SCHOOL (Honbu Dojo)</span>
+                        <span>22, 5th Main Rd, near Gowri shankara</span>
+                        <h5>Temple, Sun City Layout, JP Nagar 7th</h5>
+                        <h5>Phase, Kothnur, Bengaluru, Karnataka 560078</h5>
+                    </div>
+                </div>
+                <!-- Address 3 -->
+                <div class="col-12 col-md-4 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <div class="icon-styled">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <span>OKINAWAN KARATE SCHOOL </span>
+                        <span>789/10,Ground Floor</span>
+                        <h5>Phase, Kothnur, Bengaluru, Karnataka 560078</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Call Us -->
+                <div class="col-12 col-md-12 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <h5><u>70+ Branches across Bangalore city(Clubs,Apartments,Schools,etc)</u></h5>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Call Us -->
+                <div class="col-12 col-md-6 text-center">
                     <div class="icon-box icon-absolute text-center">
                         <div class="icon-styled">
                             <i class="fa fa-phone"></i>
@@ -105,16 +152,8 @@
                         <h5>+91 97318 93101</h5>
                     </div>
                 </div>
-                <div class="col-12 col-md-4 text-center">
-                    <div class="icon-box icon-absolute text-center">
-                        <div class="icon-styled">
-                            <i class="fa fa-map-marker"></i>
-                        </div>
-                        <span>SEASON STREET 45/2</span>
-                        <h5>LOS ANGELES, INC - 4502</h5>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 text-center">
+                <!-- Working Hours -->
+                <div class="col-12 col-md-6 text-center">
                     <div class="icon-box icon-absolute text-center">
                         <div class="icon-styled">
                             <i class="fa fa-clock-o"></i>
@@ -126,6 +165,7 @@
             </div>
         </div>
     </section>
+    
     <section class="ds s-py-60 s-py-md-90 s-overlay mobile-overlay about-section">
         <div class="container">
             <div class="row d-flex justify-content-end">
@@ -148,11 +188,15 @@
 
                     <div class="signature">
                         <div class="signature__left">
-                            <h5>Aiden Richards</h5>
-                            <span>DIRECTOR / INSTRUCTOR</span>
+                            <h5>Robin Jose</h5>
+                            <span>Technical Director <br>
+                                Okinawan Karate School <br>
+                                Judge-Asian Karate Federation <br>
+                                General Secretary-District Karate Association Bangalore South(DKABS) <br>
+                                Referee Commission Member-AKSKA(Akhila Karnataka Sports Karate Association)</span>
                         </div>
                         <div class="signature__right">
-                            <img src="{{ url('public/assets/images/signature.png') }}" alt="signature">
+                            <img src="{{ url('public/assets/images/robin_jose.png') }}" alt="signature">
                         </div>
                     </div>
                 </div>
@@ -924,31 +968,70 @@
         <!-- .marker -->
 
     </section>
-    <section class="s-py-20 s-py-lg-50 c-my-40 c-my-lg-15 cs s-parallax s-overlay contact-info">
+    <section class="s-pb-40 s-pt-0 s-py-lg-50 c-my-40 c-my-lg-15 ds contact-info">
         <div class="container">
             <div class="row">
+                <!-- Address 1 -->
                 <div class="col-12 col-md-4 text-center">
                     <div class="icon-box icon-absolute text-center">
                         <div class="icon-styled">
-                            <i class="color-main fa fa-phone"></i>
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <span>OKINAWAN KARATE SCHOOL (Honbu Dojo)</span>
+                        <span>257/9, opp Dlf New Town, 2nd Floor</span>
+                        <h5>Akshayanagar BEGUR to HULIMAVU road</h5>
+                        <h5>Beside Thalassery restaurant, Bengaluru, Karnataka, 560068</h5>
+                    </div>
+                </div>
+                <!-- Address 2 -->
+                <div class="col-12 col-md-4 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <div class="icon-styled">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <span>OKINAWAN KARATE SCHOOL (Honbu Dojo)</span>
+                        <span>22, 5th Main Rd, near Gowri shankara</span>
+                        <h5>Temple, Sun City Layout, JP Nagar 7th</h5>
+                        <h5>Phase, Kothnur, Bengaluru, Karnataka 560078</h5>
+                    </div>
+                </div>
+                <!-- Address 3 -->
+                <div class="col-12 col-md-4 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <div class="icon-styled">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <span>OKINAWAN KARATE SCHOOL </span>
+                        <span>789/10,Ground Floor</span>
+                        <h5>Phase, Kothnur, Bengaluru, Karnataka 560078</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Call Us -->
+                <div class="col-12 col-md-12 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <h5><u>70+ Branches across Bangalore city(Clubs,Apartments,Schools,etc)</u></h5>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Call Us -->
+                <div class="col-12 col-md-6 text-center">
+                    <div class="icon-box icon-absolute text-center">
+                        <div class="icon-styled">
+                            <i class="fa fa-phone"></i>
                         </div>
                         <span>CALL US 24/7</span>
                         <h5>+91 97318 93101</h5>
                     </div>
                 </div>
-                <div class="col-12 col-md-4 text-center">
+                <!-- Working Hours -->
+                <div class="col-12 col-md-6 text-center">
                     <div class="icon-box icon-absolute text-center">
                         <div class="icon-styled">
-                            <i class="color-main fa fa-map-marker"></i>
-                        </div>
-                        <span>SEASON STREET 45/2</span>
-                        <h5>LOS ANGELES, INC - 4502</h5>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 text-center">
-                    <div class="icon-box icon-absolute text-center">
-                        <div class="icon-styled">
-                            <i class="color-main fa fa-clock-o"></i>
+                            <i class="fa fa-clock-o"></i>
                         </div>
                         <span>WORKING HOURS</span>
                         <h5>DAILY: 9AM - 7PM</h5>

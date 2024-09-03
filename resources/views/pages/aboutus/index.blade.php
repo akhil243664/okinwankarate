@@ -96,7 +96,7 @@
                             <span>DIRECTOR / INSTRUCTOR</span>
                         </div>
                         <div class="signature__right">
-                            <img src="{{ url('public/assets/images/signature.png') }}" alt="signature">
+                            <img src="{{ url('public/assets/images/robin_jose.jpg') }}" alt="signature">
                         </div>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                     <div class="owl-carousel" data-loop="false" data-margin="30" data-nav="true" data-dots="true"
                         data-center="false" data-items="1" data-autoplay="false" data-responsive-xs="1"
                         data-responsive-sm="1" data-responsive-md="1" data-responsive-lg="1">
-                        
+
                         <div class="vertical-item testimonial-item box-shadow content-padding text-center">
                             <blockquote class="quote-item">
                                 <div class="quote-image">

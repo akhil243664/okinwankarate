@@ -3,6 +3,13 @@
     max-height: 348px;
 }
 
+.signature__right img {
+    max-width: 181px;
+    border-radius: 112px;
+}
+
+
+
 /* Tablet size */
 @media (max-width: 768px) {
     .instructor {
